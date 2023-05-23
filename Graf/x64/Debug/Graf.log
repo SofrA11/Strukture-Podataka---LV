@@ -1,9 +1,0 @@
-﻿  main.cpp
-E:\C#\Graf\main.cpp(1,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-E:\C#\Graf\GraphAsList.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-E:\C#\Graf\GraphAsList.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-E:\C#\Graf\main.cpp(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-E:\C#\Graf\main.cpp(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-E:\C#\Graf\main.cpp(9,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
-E:\C#\Graf\main.cpp(44,28): warning C4101: 'L': unreferenced local variable
-  Graf.vcxproj -> E:\C#\Graf\x64\Debug\Graf.exe
